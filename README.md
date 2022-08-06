@@ -3,6 +3,7 @@ My solutions to some of the problems in LeetCode
 
 ## Easy Problems:
     205. Isomorphic Strings
+    392. Is Subsequence
     724. Pivot Index
     1480. Running Sum
 
