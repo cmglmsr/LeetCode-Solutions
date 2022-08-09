@@ -3,6 +3,7 @@ My solutions to some of the problems in LeetCode
 
 ## Easy Problems:
     21. Merge Two Sorted Lists
+    121. Best Time to Buy and Sell Stock
     205. Isomorphic Strings
     206. Reverse Linked List
     392. Is Subsequence
