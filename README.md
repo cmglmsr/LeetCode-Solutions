@@ -6,6 +6,7 @@ My solutions to some of the problems in LeetCode
     121. Best Time to Buy and Sell Stock
     205. Isomorphic Strings
     206. Reverse Linked List
+    235. Lowest Common Ancestor of a Binary Search Tree
     278. First Bad Version
     392. Is Subsequence
     409. Longest Palindrome
@@ -16,6 +17,7 @@ My solutions to some of the problems in LeetCode
     1480. Running Sum
 
 ## Medium Problems:
+    98. Validate Binary Search Tree
     102. Binary Tree Level Order Traversal 
     142. Linked List Cycle II 
     858. Mirror Reflection
