@@ -3,6 +3,7 @@ My solutions to some of the problems in LeetCode
 
 ## Easy Problems:
     21. Merge Two Sorted Lists
+    70. Climbing Stairs
     121. Best Time to Buy and Sell Stock
     205. Isomorphic Strings
     206. Reverse Linked List
@@ -10,6 +11,7 @@ My solutions to some of the problems in LeetCode
     278. First Bad Version
     392. Is Subsequence
     409. Longest Palindrome
+    509. Fibonacci Number
     589. N-ary Tree Preorder Traversal
     704. Binary Search
     724. Pivot Index
