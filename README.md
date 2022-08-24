@@ -14,6 +14,7 @@ My solutions to some of the problems in LeetCode
     704. Binary Search
     724. Pivot Index
     733. Flood Fill
+    746. Min Cost Climbing Stairs
     876. Middle of the Linked List
     1480. Running Sum
 
