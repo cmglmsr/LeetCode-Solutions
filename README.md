@@ -21,6 +21,7 @@ My solutions to some of the problems in LeetCode
     1480. Running Sum
 
 ## Medium Problems:
+    62. Unique Paths
     98. Validate Binary Search Tree
     102. Binary Tree Level Order Traversal 
     142. Linked List Cycle II
