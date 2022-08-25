@@ -2,7 +2,9 @@
     "files.associations": {
         "vector": "cpp",
         "xiosbase": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "unordered_map": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp"
     },
-    "C_Cpp.errorSquiggles": "Disabled"
 }
