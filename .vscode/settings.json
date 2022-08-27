@@ -7,4 +7,5 @@
         "xstring": "cpp",
         "utility": "cpp"
     },
+    "C_Cpp.errorSquiggles": "Disabled",
 }

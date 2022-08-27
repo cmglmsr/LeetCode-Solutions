@@ -26,5 +26,6 @@ My solutions to some of the problems in LeetCode
     102. Binary Tree Level Order Traversal 
     142. Linked List Cycle II
     200. Number of Islands
+    424. Longest Repeating Character Replacement
     438. Find All Anagrams in a String 
     858. Mirror Reflection
