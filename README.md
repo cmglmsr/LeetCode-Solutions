@@ -2,6 +2,7 @@
 My solutions to some of the problems in LeetCode
 
 ## Easy Problems:
+    1. Two Sum
     21. Merge Two Sorted Lists
     70. Climbing Stairs
     121. Best Time to Buy and Sell Stock
@@ -26,6 +27,7 @@ My solutions to some of the problems in LeetCode
     102. Binary Tree Level Order Traversal 
     142. Linked List Cycle II
     200. Number of Islands
+    299. Bulls and Cows
     424. Longest Repeating Character Replacement
     438. Find All Anagrams in a String 
     858. Mirror Reflection
