@@ -18,6 +18,7 @@ My solutions to some of the problems in LeetCode
     724. Pivot Index
     733. Flood Fill
     746. Min Cost Climbing Stairs
+    844. Backspace String Compare
     876. Middle of the Linked List
     1480. Running Sum
 
