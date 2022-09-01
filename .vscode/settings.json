@@ -5,7 +5,10 @@
         "array": "cpp",
         "unordered_map": "cpp",
         "xstring": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "xlocale": "cpp",
+        "stack": "cpp",
+        "ostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
 }
