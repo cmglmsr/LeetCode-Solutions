@@ -20,6 +20,7 @@ My solutions to some of the problems in LeetCode
     746. Min Cost Climbing Stairs
     844. Backspace String Compare
     876. Middle of the Linked List
+    1046. Last Stone Weight
     1480. Running Sum
 
 ## Medium Problems:
@@ -31,5 +32,9 @@ My solutions to some of the problems in LeetCode
     299. Bulls and Cows
     394. Decode String
     424. Longest Repeating Character Replacement
-    438. Find All Anagrams in a String 
+    438. Find All Anagrams in a String
+    692. Top K Frequent Words
     858. Mirror Reflection
+
+# Contests
+    - Biweekly Contest 86
