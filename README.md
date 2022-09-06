@@ -1,4 +1,4 @@
-# LeetCode-Solutions
+# LeetCode Solutions
 My solutions to some of the problems in LeetCode
 
 ## Easy Problems:
@@ -22,6 +22,7 @@ My solutions to some of the problems in LeetCode
     876. Middle of the Linked List
     1046. Last Stone Weight
     1480. Running Sum
+    2396. Strictly Palindromic Number
 
 ## Medium Problems:
     62. Unique Paths
@@ -35,6 +36,10 @@ My solutions to some of the problems in LeetCode
     438. Find All Anagrams in a String
     692. Top K Frequent Words
     858. Mirror Reflection
+    2397. Maximum Rows Covered by Columns
+
+## Hard Problems:
+    2398. Maximum Number of Robots Within Budget
 
 # Contests
     - Biweekly Contest 86
