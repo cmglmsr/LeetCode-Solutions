@@ -6,6 +6,7 @@ My solutions to some of the problems in LeetCode
     21. Merge Two Sorted Lists
     70. Climbing Stairs
     121. Best Time to Buy and Sell Stock
+    202. Happy Number
     205. Isomorphic Strings
     206. Reverse Linked List
     235. Lowest Common Ancestor of a Binary Search Tree
@@ -25,6 +26,7 @@ My solutions to some of the problems in LeetCode
     2396. Strictly Palindromic Number
 
 ## Medium Problems:
+    54. Spiral Matrix
     62. Unique Paths
     98. Validate Binary Search Tree
     102. Binary Tree Level Order Traversal 
@@ -36,6 +38,7 @@ My solutions to some of the problems in LeetCode
     438. Find All Anagrams in a String
     692. Top K Frequent Words
     858. Mirror Reflection
+    1706. Where Will the Ball Fall
     2397. Maximum Rows Covered by Columns
 
 ## Hard Problems:
