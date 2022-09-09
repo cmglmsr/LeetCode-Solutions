@@ -3,12 +3,14 @@ My solutions to some of the problems in LeetCode
 
 ## Easy Problems:
     1. Two Sum
+    14. Longest Common Prefix
     21. Merge Two Sorted Lists
     70. Climbing Stairs
     121. Best Time to Buy and Sell Stock
     202. Happy Number
     205. Isomorphic Strings
     206. Reverse Linked List
+    234. Palindrome Linked List
     235. Lowest Common Ancestor of a Binary Search Tree
     278. First Bad Version
     392. Is Subsequence
@@ -26,6 +28,8 @@ My solutions to some of the problems in LeetCode
     2396. Strictly Palindromic Number
 
 ## Medium Problems:
+    19. Remove Nth Node From End of List
+    43. Multiply Strings
     54. Spiral Matrix
     62. Unique Paths
     98. Validate Binary Search Tree
