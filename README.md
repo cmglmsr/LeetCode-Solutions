@@ -35,8 +35,10 @@ My solutions to some of the problems in LeetCode
     98. Validate Binary Search Tree
     102. Binary Tree Level Order Traversal 
     142. Linked List Cycle II
+    148. Sort List
     200. Number of Islands
     299. Bulls and Cows
+    328. Odd Even Linked List
     394. Decode String
     424. Longest Repeating Character Replacement
     438. Find All Anagrams in a String
