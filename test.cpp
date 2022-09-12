@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <unordered_map>
+#include <ordered_map>
 #include <vector>
 #include <stack>
 #include <ctype.h>
@@ -9,7 +10,7 @@
 using namespace std;
 
 int main() {
-    vector<int> ls;
+    ordered_map<int,int> ls;
     ls.push_back(19);
     ls.push_back(18);
     ls.push_back(16);
